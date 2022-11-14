@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 	Jestem samoukiem. Poszedłem do technikum z chęcią nauczenia się programowania, ale wyszedłem tylko z niesmakiem. Niestety, trafiłem do szkoły o słabym poziomie nauczania i nauczyciele nie wzbudzili we mnie pasji. Lecz na szczęście zrobiłem to samemu :)
 </p>
 <p align="left">
-	Przez obecną pracę (nie związaną z programowaniem) nie mam dużo czasu na pisanie kodu. Chciałbym to zmienić i zamienić to co kocham w coś, co przynosi mi zysk. Myślę, że założenie tutaj konta jest dobrym pierwszym krokiem.
+	Przez obecną pracę (nie związaną z programowaniem) nie mam dużo czasu na pisanie kodu. Do tej pory pisałem głównie do szuflady, teraz chciałbym się tym podzielić. Postanowiłem coś w życiu zmienić i zamienić to, co lubię, w coś co przynosi mi zysk. Myślę, że założenie tutaj konta jest dobrym pierwszym krokiem.
 </p>
