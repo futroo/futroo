@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hello 👋, I'm Michał</h1>
-<h3 align="center">I'm 23 years old and I come from Poland.</h3>
+<h3 align="center">I'm 25 years old and I come from Poland.</h3>
 <h3 align="center">I've been programming as a hobby since 2014.</h3>
 
 <h3 align="left">I'm constantly learning, mainly in these areas:</h3>
@@ -36,6 +36,3 @@
 	Through my current job (not related to programming), I don't have much time to write code. Until now I wrote mostly for the drawer, now I would like to share it. I decided to change something in my life and turn what I like into something that brings me profit. I think creating an account here is a good first step.
 </p>
 <br />
-<p align="left">
-	I apologize for my English, although I try my best to use the language, sometimes I may make mistakes or have difficulty expressing my thoughts. English is not my native language
-</p>
