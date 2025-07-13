@@ -25,14 +25,3 @@
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-<br />
-<p align="left">
-	Programming on a 'larger scale' fascinated me with electronics and the possibility of programming whose effects I can see in the real world. I thought - "I like gadgets, so why not make myself a voice-controlled lamp?" - and as I thought, so I did.
-</p>
-<p align="left">
-	I am a self-taught programmer. I went to a technical school with the desire to learn programming, but I left with nothing but distaste. Unfortunately, I went to a school with a poor level of teaching and the teachers did not inspire passion in me. But fortunately I did it on my own :)
-</p>
-<p align="left">
-	Through my current job (not related to programming), I don't have much time to write code. Until now I wrote mostly for the drawer, now I would like to share it. I decided to change something in my life and turn what I like into something that brings me profit. I think creating an account here is a good first step.
-</p>
-<br />
